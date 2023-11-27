@@ -39,3 +39,9 @@ Secara kuantitatif terdapat dua risiko yang disebabkan oleh pemohon, yaitu :
 
 ## 📂 *Stage 1 : Exploratory Data Analysis*
 ### Dataset
+
+## 📂 *Stage 2 : Data Pre-processing*
+
+## 📂 *Stage 3 : Modelling and Evaluation*
+
+## 📂 *Stage 3 : Business Insight and Recomendation*
